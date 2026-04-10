@@ -1,0 +1,11 @@
+name_kdm = input("Enter your name: ")
+age_kdm = input("Enter your age: ")
+course_kdm = input("Enter your course: ")
+university_kdm = input("Enter your university: ")
+print("")
+print("----- STUDENT PROFILE -----")
+print("Name:", name_kdm)
+print("Age:", age_kdm)
+print("Course:", course_kdm)
+print("University:", university_kdm)
+# Montes, Karen
